@@ -1,0 +1,11 @@
+C:\Users\snow\Desktop\GodCuffs\PluginTemplate\bin\Debug\PluginTemplate.dll
+C:\Users\snow\Desktop\GodCuffs\PluginTemplate\bin\Debug\PluginTemplate.pdb
+C:\Users\snow\Desktop\GodCuffs\PluginTemplate\bin\Debug\PluginTemplate.xml
+C:\Users\snow\Desktop\GodCuffs\PluginTemplate\obj\Debug\PluginTemplate.csproj.AssemblyReference.cache
+C:\Users\snow\Desktop\GodCuffs\PluginTemplate\obj\Debug\PluginTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snow\Desktop\GodCuffs\PluginTemplate\obj\Debug\PluginTemplate.AssemblyInfoInputs.cache
+C:\Users\snow\Desktop\GodCuffs\PluginTemplate\obj\Debug\PluginTemplate.AssemblyInfo.cs
+C:\Users\snow\Desktop\GodCuffs\PluginTemplate\obj\Debug\PluginTemplate.csproj.CoreCompileInputs.cache
+C:\Users\snow\Desktop\GodCuffs\PluginTemplate\obj\Debug\PluginTemplate.dll
+C:\Users\snow\Desktop\GodCuffs\PluginTemplate\obj\Debug\PluginTemplate.xml
+C:\Users\snow\Desktop\GodCuffs\PluginTemplate\obj\Debug\PluginTemplate.pdb

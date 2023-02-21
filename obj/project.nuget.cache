@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "IV6JZzLgngmCdMHVd/FDTMltV0+7olfSer7r3mIOECKXq02fRXhoeCXCJ60umcMGnHLWnkKS8zt3f1UJB6I8ZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\snow\\Desktop\\GodCuffs\\PluginTemplate\\PluginTemplate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\snow\\.nuget\\packages\\exiled\\6.0.0-beta.19\\exiled.6.0.0-beta.19.nupkg.sha512",
+    "C:\\Users\\snow\\.nuget\\packages\\lib.harmony\\2.0.4\\lib.harmony.2.0.4.nupkg.sha512",
+    "C:\\Users\\snow\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512",
+    "C:\\Users\\snow\\.nuget\\packages\\yamldotnet\\9.1.4\\yamldotnet.9.1.4.nupkg.sha512"
+  ],
+  "logs": []
+}

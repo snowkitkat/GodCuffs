@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PluginTemplate</name>
+    </assembly>
+    <members>
+        <member name="T:PluginTemplate.Config">
+            <inheritdoc />
+        </member>
+        <member name="P:PluginTemplate.Config.IsEnabled">
+            <inheritdoc/>
+        </member>
+        <member name="P:PluginTemplate.Config.Debug">
+            <summary>
+            Gets or sets a value indicating whether debug messages should be shown in the console.
+            </summary>
+        </member>
+        <member name="T:PluginTemplate.EventHandlers">
+            <summary>
+            General event handlers.
+            </summary>
+        </member>
+        <member name="M:PluginTemplate.EventHandlers.#ctor(PluginTemplate.Plugin)">
+            <summary>
+            Initializes a new instance of the <see cref="T:PluginTemplate.EventHandlers"/> class.
+            </summary>
+            <param name="plugin">The <see cref="T:Exiled.API.Features.Plugin`1"/> class reference.</param>
+        </member>
+        <member name="T:PluginTemplate.Plugin">
+            <inheritdoc />
+        </member>
+        <member name="P:PluginTemplate.Plugin.Author">
+            <inheritdoc/>
+        </member>
+        <member name="P:PluginTemplate.Plugin.Name">
+            <inheritdoc/>
+        </member>
+        <member name="P:PluginTemplate.Plugin.Prefix">
+            <inheritdoc/>
+        </member>
+        <member name="P:PluginTemplate.Plugin.Version">
+            <inheritdoc/>
+        </member>
+        <member name="P:PluginTemplate.Plugin.RequiredExiledVersion">
+            <inheritdoc/>
+        </member>
+        <member name="M:PluginTemplate.Plugin.OnEnabled">
+            <inheritdoc/>
+        </member>
+        <member name="M:PluginTemplate.Plugin.OnDisabled">
+            <inheritdoc/>
+        </member>
+    </members>
+</doc>
